@@ -1,7 +1,11 @@
+1. Database di libri
+2. Ogni libro ha dei generi e x numero di copie
+3. Ogni copia può essere prestata più volte a utenti diversi
+
 Entities: 
 
 - books
 - copies
+- genres
 - users
 - lends (prestiti)
-- genres
